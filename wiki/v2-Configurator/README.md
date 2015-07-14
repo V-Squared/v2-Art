@@ -1,0 +1,2 @@
+- all artwork used in [V²Configurator Wiki](https://github.com/V-Squared/v2-Configurator/wiki) is stored here
+- Each Wiki Page that has artwork is represented with a corresponding folder containing its artwork
